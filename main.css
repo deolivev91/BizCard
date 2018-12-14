@@ -135,7 +135,7 @@ img.profile-pic {
 }
 
 .bg-color-grey {
-	background-color: #F2F2F2;
+	background-color: #003865;
 }
 
 .bg-color-white {
@@ -151,7 +151,7 @@ img.profile-pic {
 
 .text-title-company {
     font-family: 'Lato', sans-serif;
-    font-weight: 200;
+    font-weight: 250;
     color: #333333;
     font-size: 12px;
 }
@@ -168,7 +168,7 @@ img.profile-pic {
 }
 
 .button {
-	background-color: #219653;
+	background-color: #00a9e0;
 	height: 48px;
 	padding-left: 24px
 	padding-right: 24px;
