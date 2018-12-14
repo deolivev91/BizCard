@@ -123,7 +123,7 @@ img.profile-pic {
 }
 
 .banner {
-	height: 45%;
+	height: 35%;
 }
 
 .primary-info {
@@ -146,18 +146,18 @@ img.profile-pic {
     font-family: 'Arial Black', sans-serif;
     font-weight: 400;
     color: #009de6;
-    font-size: 40px;
+    font-size: 35px;
 }
 
 .text-title-company {
-    font-family: 'Arial Black', sans-serif;
+    font-family: 'Arial', sans-serif;
     font-weight: 200;
     color: #003865;
     font-size: 16px;
 }
 
 .text-detail {
-    font-family: 'Arial Black', sans-serif;
+    font-family: 'Arial', sans-serif;
     font-weight: 300;
     color: #575757;
     font-size: 14px;
