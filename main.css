@@ -54,6 +54,7 @@ img.profile-pic {
 	position: relative;
 	height: 100%;
 	max-width: 840px;
+	justify-content: center;
 }
 
 .col {
